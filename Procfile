@@ -1,1 +1,1 @@
-worker: node.js krubishbot.js
+worker: npm start
